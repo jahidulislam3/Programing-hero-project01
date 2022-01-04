@@ -13,6 +13,9 @@ body{
 }
 #topbar{
     display: flex;
+    background-image: url(picture/top-banner.png);
+    background-repeat: no-repeat;
+    padding-bottom: 78px;
 }
 .half-width{
     width: 50%;
@@ -53,4 +56,33 @@ button {
     border-radius: 5px;
     box-shadow: 2px -2px 0px #1513bdd1;
     border: none;
+}
+#topbar2{
+    display: flex;
+    background-image: url(picture/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 78px;
+}
+.half-width2{
+    width: 50%;
+}
+.half-width2 img {
+    width: 60%;
+    padding-left: 60px;
+}
+.half-width2 h1 {
+    font-size: 47px;
+    padding: 54px 0px 20px 0px;
+}
+
+.half-width2 h3 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.half-width2 p {
+    width: 527px;
+    text-align: justify;
+    padding-bottom: 23px;
 }
