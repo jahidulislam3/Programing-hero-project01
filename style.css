@@ -86,3 +86,58 @@ button {
     text-align: justify;
     padding-bottom: 23px;
 }
+.Web-Developer{
+    display: flex;
+    margin-left: 0px;
+    padding-left: 43px;
+}
+#Experience {
+    padding-bottom: 40px;
+}
+.Developer {
+    box-shadow: -6px 5px 13px 1px #333;
+    padding: 25px;
+    margin: 0px 33px 25px 27px;
+    width: 40%;
+    border-radius: 5px;
+}
+
+.Developer h1 {
+    padding-bottom: 37px;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.Developer h3 {
+    font-size: 19px;
+    padding-bottom: 26px;
+    color: #fa8700;
+}
+
+.Developer p {
+    text-align: justify;
+    padding-bottom: 70px;
+    width: 516px;
+}
+.padding{
+    text-align: center;
+    font-size: 57px;
+    color: brown;
+    background-image: radial-gradient(#27dd46, transparent);
+    text-shadow: 6px 0px 0px #0120fc;
+    margin-bottom: 71px;
+}
+.Web-Developer{
+    background-image: url(picture/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#Experience-develiper{
+   border-left: 5px solid;
+   border-image: linear-gradient(blue, cyan);
+   border-image-slice: 1;
+   border-radius: 5px
+}
+.Developer{
+   border-left: 5px solid #FA6F59;
+   border-radius: 5px
+}
